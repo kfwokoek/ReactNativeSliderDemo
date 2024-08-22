@@ -2,7 +2,7 @@ import { StyleSheet, Text, View, SafeAreaView } from 'react-native'
 import { useState } from 'react'
 import { ViewStyles } from '../styles/ViewStyles'
 import { TextStyles } from '../styles/TextStyles'
-import BarGraph from '@/components/BarGraph'
+import BarGraph from '../components/BarGraph'
 
 const index = () => {
     const [value, setValue] = useState(50)
