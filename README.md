@@ -4,3 +4,4 @@
 This app was created to practice implementing the react native slider package and the haptics package from expo. The slider provides realtime updates to the current height, making it perfect for user input.
 
 ## Demo
+![](https://github.com/kfwokoek/ReactNativeSliderDemo/blob/main/demo.gif)
